@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projekt - maszyna do kawy/1.0.0": {
+        "runtime": {
+          "Projekt - maszyna do kawy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projekt - maszyna do kawy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

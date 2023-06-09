@@ -1,0 +1,15 @@
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.AssemblyInfo.cs
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\bin\Debug\net6.0\Projekt - maszyna do kawy.exe
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\bin\Debug\net6.0\Projekt - maszyna do kawy.deps.json
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\bin\Debug\net6.0\Projekt - maszyna do kawy.runtimeconfig.json
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\bin\Debug\net6.0\Projekt - maszyna do kawy.dll
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\bin\Debug\net6.0\Projekt - maszyna do kawy.pdb
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.dll
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\refint\Projekt - maszyna do kawy.dll
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.pdb
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\Projekt - maszyna do kawy.genruntimeconfig.cache
+C:\Users\Sebastian\Desktop\studia\III rok 1 semestr\Programowanie_obiektowe_LAB\Projekt - maszyna do kawy\Projekt - maszyna do kawy\obj\Debug\net6.0\ref\Projekt - maszyna do kawy.dll
